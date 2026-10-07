@@ -1,0 +1,4 @@
+﻿# 啟用集合表示式偏好（C# 12 集合表達式）
+[*.cs]
+dotnet_style_prefer_collection_expression = true:warning
+dotnet_style_collection_initializer = true:warning
